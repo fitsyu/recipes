@@ -1,0 +1,7 @@
+bahan-bahan:
+- tahu sumedang yang banyak
+- garem
+- gula merah
+- cabe yang mahal
+- cuka
+- kecap
